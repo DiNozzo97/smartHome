@@ -1,0 +1,165 @@
+Setting Serial: attempting to open /dev/ttyACM0
+Setting Serial: serial port /dev/ttyACM0 opened
+Listener Thread: thread process created.
+Creating Threads: starting
+Creating Threads: all threads created and alive
+Listener Thread: now running.
+dbg msg: !
+
+dbg msg: !ASIP 0.4 with sketch AsipIO on ATmega328P
+
+dbg msg: !AsipIO running on ATmega328P with Services: I 
+
+dbg msg: !AsipIO is ready
+
+dbg msg: !
+
+dbg msg: !ASIP 0.4 with sketch AsipIO on ATmega328P
+
+dbg msg: !AsipIO running on ATmega328P with Services: I 
+
+dbg msg: !AsipIO is ready
+
+Creating Threads: Mapping received, auto-report interval set to 0. Running now!
+Error message received: ~I,?,1{INVALID_SERVICE}
+
+Average:
+18.6833333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.2, 17.98, 19.87, 794]
+Average:
+18.5566666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.84, 18.2, 18.63, 784]
+Average:
+19.0366666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.2, 18.84, 20.07, 784]
+Average:
+18.8333333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.63, 18.41, 19.46, 792]
+Exception: substring not found while parsing analog message
+Average:
+19.1633333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.63, 18.2, 20.66, 784]
+Exception: substring not found while parsing analog message
+Exception: substring not found while parsing analog message
+Exception: substring not found while parsing analog message
+Average:
+18.9766666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.63, 18.84, 19.46, 789]
+Average:
+19.2
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.41, 17.76, 21.43, 782]
+Average:
+18.3966666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[17.98, 17.54, 19.67, 785]
+Average:
+18.5533333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.2, 19.05, 18.41, 789]
+Average:
+19.4566666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[19.25, 19.25, 19.87, 792]
+Exception: substring not found while parsing analog message
+Average:
+18.7533333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[17.76, 18.63, 19.87, 794]
+Average:
+18.9666666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[19.05, 17.98, 19.87, 791]
+Exception: substring not found while parsing analog message
+Average:
+18.9366666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[17.76, 18.2, 20.85, 784]
+Average:
+19.2466666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.63, 18.84, 20.27, 783]
+Average:
+18.52
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.41, 17.08, 20.07, 788]
+Average:
+18.3233333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[17.76, 17.54, 19.67, 784]
+Average:
+18.8833333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[17.54, 18.84, 20.27, 784]
+Average:
+19.1166666667
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.84, 18.84, 19.67, 777]
+Average:
+19.44
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.41, 19.25, 20.66, 786]
+Average:
+18.9033333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.41, 18.84, 19.46, 782]
+Exception: substring not found while parsing analog message
+Average:
+18.3433333333
+[1;32mFan Off[1;m
+Writing to DB...
+['KitchenTemp', 'LivingTemp', 'UtilityTemp', 'PhotoLevel']
+[18.2, 18.2, 18.63, 782]
+Caught exception in main loop: 
+Listener Thread: now stopping.
+Killing Threads: event for <ListenerThread(Thread-1, started -1231723424)> successfully set
+Listener Thread: stopped
+Killing Threads: waiting for join
+Killing Threads: thread <ListenerThread(Thread-1, stopped -1231723424)> successfully closed
+All threads terminated.
