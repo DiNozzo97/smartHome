@@ -1,4 +1,4 @@
-# smartHome
+# Smart Home
 
 ## Welcome ##
 
