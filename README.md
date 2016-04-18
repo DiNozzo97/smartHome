@@ -8,4 +8,4 @@ It is based around the current idea of "Internet of Things" and is a scale house
 
 For Documentation, please visit the [Wiki](https://www.github.com/DiNozzo97/smartHome/wiki)
 
-For a Demo the [Demo Video](https://youtu.be/3cEG87-J5SY)
+For a Demo see the [Demo Video](https://youtu.be/3cEG87-J5SY)
