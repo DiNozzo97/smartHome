@@ -5,12 +5,21 @@ import math
 import MySQLdb
 import RPi.GPIO as GPIO
 
+# Database Credentials
+host = "127.0.0.1"
+username = "root"
+password = ""
+database = "smartHouse"
+
+
+
+
 fanPin = 17
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(fanPin, GPIO.OUT)
 GPIO.output(fanPin, 1)
 
-db = MySQLdb.connect("127.0.0.1","root","","smartHouse" )
+db = MySQLdb.connect(host,username,"",database )
 
 cursor = db.cursor()
 
