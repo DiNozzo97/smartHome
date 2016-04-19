@@ -7,8 +7,8 @@ import RPi.GPIO as GPIO
 # Your Account Sid and Auth Token from twilio.com/user/account
 account_sid = "## YOUR TWILLIO SID"
 auth_token  = "## YOUR TWILLIO TOKEN"
-recipient_phoneNo = ""
-twilio_phoneNo =""
+recipient_phoneNo = "## YOUR RECIPIENT PHONE NUMBER"
+twilio_phoneNo ="## YOUR TWILLIO PHONE NUMBER"
 
 client = TwilioRestClient(account_sid, auth_token)
 
