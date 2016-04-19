@@ -1,6 +1,6 @@
 <?php 
 // Create connection to SQL Database
-include("../dbCredentials.php");
+include("../credentials.php");
 
 $conn = new mysqli($host, $username, $password, $database);
 
