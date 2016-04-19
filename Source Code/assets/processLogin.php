@@ -6,8 +6,9 @@ $attemptUsername = $_POST["inputEmail"];
 $attemptPassword = $_POST["inputPassword"];
 $attemptPasswordHash = MD5($attemptPassword);
 
+include("credentials.php");
 
-$conn = new mysqli("127.0.0.1", "root", "", "smartHouse");
+$conn = new mysqli($host, $username, $password, $database);
 
 if ($conn->connect_error) {
 	die("Connection failed: " . $conn->connect_error);
