@@ -1,8 +1,10 @@
 <?php
 include('twilio-php/Services/Twilio.php');
- 
+include("../credentials.php");
 
-$client = new Services_Twilio("## YOUR TWILLIO SID", "## YOUR TWILLIO TOKEN");
+$conn = new mysqli($host, $username, $password, $database);
+
+$client = new Services_Twilio($twilioSID, $twilioToken);
 
 $content = $_REQUEST['Body'];
 $content = strtolower($content);
