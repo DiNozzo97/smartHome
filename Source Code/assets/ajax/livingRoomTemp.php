@@ -1,7 +1,9 @@
 <?php 
 // Create connection to SQL Database
 
-$conn = new mysqli("127.0.0.1", "root", "", "smartHouse");
+include("../dbCredentials.php");
+
+$conn = new mysqli($host, $username, $password, $database);
 
     // Check connection
     if ($conn->connect_error) {
